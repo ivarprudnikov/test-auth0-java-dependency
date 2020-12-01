@@ -1,6 +1,8 @@
 https://github.com/auth0/auth0-java/issues/324
 ==============================================
 
+![Java CI with Gradle](https://github.com/ivarprudnikov/test-auth0-java-dependency/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 An example of a failing dependency resolution when using `com.auth0:auth0:1.25.0` along with 
 gradle plugins: `org.springframework.boot` and `io.spring.dependency-management`
 
